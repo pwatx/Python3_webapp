@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software.
+This is a readme file for webapp of python3, From book of Liao Xuefeng.
